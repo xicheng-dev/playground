@@ -19,4 +19,4 @@ java -jar target/playground-1.0-SNAPSHOT.jar
 ## IntelliJ IDEA
 
 Open the repo as a project and IntelliJ should detect `pom.xml` as a Maven project.
-If IDEA prompts for a JDK, use the JDK referenced by your local machine's `JAVA_HOME`.
+If IDEA prompts for a JDK, use a local JDK 21 installation from your machine's `JAVA_HOME`.
